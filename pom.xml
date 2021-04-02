@@ -68,7 +68,7 @@
                         <goal>generate</goal>
                     </goals>
                     <configuration>
-                        <projectName>SeleniumCucumberRevisionAgain</projectName>
+                        <projectName>SeleniumCucumberBDD</projectName>
                         <skip>false</skip>
                         <outputDirectory>target/htmlReports</outputDirectory>
                         <inputDirectory>target/cucumberReports</inputDirectory>

@@ -1,5 +1,5 @@
 Feature: Flight Booking functionality
-  @Debug
+
   Scenario: One way trip from London to Paris
     Given user is in home page
     When user clicks on flights link
