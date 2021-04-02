@@ -70,8 +70,8 @@
                     <configuration>
                         <projectName>SeleniumCucumberRevisionAgain</projectName>
                         <skip>false</skip>
-                        <outputDirectory>target/html-reports</outputDirectory>
-                        <inputDirectory>target/cucumber-reports</inputDirectory>
+                        <outputDirectory>target/htmlReports</outputDirectory>
+                        <inputDirectory>target/cucumberReports</inputDirectory>
                         <jsonFiles>
                             <param>**/*.json</param>
                         </jsonFiles>
